@@ -52,5 +52,14 @@
         "endate": "2035-03-23T22:51:51.157Z"
       }
     ]
+  },
+  {
+    "username": "freewalkbottest001",
+    "subscriptions": [
+      {
+        "product": "walkbot",
+        "endate": "2025-03-29T15:36:48.856Z"
+      }
+    ]
   }
 ]
