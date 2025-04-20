@@ -133,5 +133,14 @@
         "endate": "2035-04-17T18:15:32.043Z"
       }
     ]
+  },
+  {
+    "username": "test0003",
+    "subscriptions": [
+      {
+        "product": "walkbot",
+        "endate": "2025-04-20T14:14:32.437Z"
+      }
+    ]
   }
 ]
